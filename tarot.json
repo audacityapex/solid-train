@@ -1,0 +1,112 @@
+[
+  {
+    "name": "The Fool",
+    "meaning_up": "New beginnings, innocence, spontaneity, free spirit",
+    "meaning_rev": "Recklessness, taken advantage of, inconsideration"
+  },
+  {
+    "name": "The Magician",
+    "meaning_up": "Power, skill, concentration, action, resourcefulness",
+    "meaning_rev": "Manipulation, poor planning, untapped potential"
+  },
+  {
+    "name": "The High Priestess",
+    "meaning_up": "Intuition, sacred knowledge, divine feminine, mystery",
+    "meaning_rev": "Secrets, withdrawal, silence, lack of intuition"
+  },
+  {
+    "name": "The Empress",
+    "meaning_up": "Fertility, femininity, beauty, nature, abundance",
+    "meaning_rev": "Creative block, dependence on others"
+  },
+  {
+    "name": "The Emperor",
+    "meaning_up": "Authority, structure, control, father figure",
+    "meaning_rev": "Domination, excessive control, lack of discipline"
+  },
+  {
+    "name": "The Hierophant",
+    "meaning_up": "Spiritual wisdom, tradition, conformity, morality, ethics",
+    "meaning_rev": "Rebellion, personal beliefs, freedom, challenging tradition"
+  },
+  {
+    "name": "The Lovers",
+    "meaning_up": "Love, harmony, relationships, values alignment, choices",
+    "meaning_rev": "Self-love, imbalance, disharmony, misalignment of values"
+  },
+  {
+    "name": "The Chariot",
+    "meaning_up": "Control, willpower, success, action, determination",
+    "meaning_rev": "Self-discipline, opposition, lack of direction"
+  },
+  {
+    "name": "The Strength",
+    "meaning_up": "Strength, courage, persuasion, influence, compassion",
+    "meaning_rev": "Self-doubt, weakness, insecurity"
+  },
+  {
+    "name": "The Hermit",
+    "meaning_up": "Soul-searching, introspection, inner guidance, solitude",
+    "meaning_rev": "Isolation, loneliness, withdrawal"
+  },
+  {
+    "name": "The Wheel of Fortune",
+    "meaning_up": "Good luck, karma, life cycles, destiny, a turning point",
+    "meaning_rev": "Bad luck, resistance to change, breaking cycles"
+  },
+  {
+    "name": "The Justice",
+    "meaning_up": "Justice, fairness, truth, law, cause and effect",
+    "meaning_rev": "Unfairness, lack of accountability, dishonesty"
+  },
+  {
+    "name": "The Hanged Man",
+    "meaning_up": "Pause, surrender, letting go, new perspectives",
+    "meaning_rev": "Resistance, indecision, delays"
+  },
+  {
+    "name": "The Death",
+    "meaning_up": "Endings, change, transformation, transition",
+    "meaning_rev": "Resistance to change, fear of new beginnings"
+  },
+  {
+    "name": "The Temperance",
+    "meaning_up": "Balance, moderation, patience, purpose",
+    "meaning_rev": "Imbalance, excess, lack of long-term vision"
+  },
+  {
+    "name": "The Devil",
+    "meaning_up": "Shadow self, attachment, addiction, restriction",
+    "meaning_rev": "Breaking free, detachment, overcoming addiction"
+  },
+  {
+    "name": "The Tower",
+    "meaning_up": "Sudden change, upheaval, chaos, revelation, awakening",
+    "meaning_rev": "Avoiding disaster, fear of change"
+  },
+  {
+    "name": "The Star",
+    "meaning_up": "Hope, faith, purpose, renewal, spirituality",
+    "meaning_rev": "Lack of faith, despair, disconnection"
+  },
+  {
+    "name": "The Moon",
+    "meaning_up": "Illusion, fear, anxiety, subconscious, intuition",
+    "meaning_rev": "Clarity, overcoming fear, truth revealed"
+  },
+  {
+    "name": "The Sun",
+    "meaning_up": "Positivity, fun, warmth, success, vitality",
+    "meaning_rev": "Inner child, feeling down, lack of success"
+  },
+  {
+    "name": "The Judgement",
+    "meaning_up": "Judgment, rebirth, inner calling, absolution",
+    "meaning_rev": "Self-doubt, ignoring inner calling, lack of self-awareness"
+  },
+  {
+    "name": "The World",
+    "meaning_up": "Completion, integration, accomplishment, travel",
+    "meaning_rev": "Unfinished business, lack of closure"
+  }
+]
